@@ -9,7 +9,7 @@
    - PHP
    - AWS
    - SQL
-   - Java
+   - Python
    
 - () I am skilled in
    - HTML
