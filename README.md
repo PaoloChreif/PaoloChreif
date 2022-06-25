@@ -5,12 +5,13 @@
    - HTML
    - CSS
    - JavaScript
+   - React.js
+   - TypeScript
    
 - 🌱 I’m currently learning 
    - JavaScript
    - React.js
-   - Angular.js
-   - Vue.js
+   - TypeScript
  
 - 📫 How to reach me
    - paolochreif@gmail.com
