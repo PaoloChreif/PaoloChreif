@@ -1,17 +1,24 @@
 - 👋 Hi, I’m @PaoloChreif
 
 - 👀 I’m interested in 
-   - Front-end development
+   - Full-Stack development
    - HTML
    - CSS
    - JavaScript
    - React.js
-   - TypeScript
+   - AWS
+   - SQL
+   - Java
    
+- () I am skilled in
+   - HTML
+   - CSS
+
+
 - 🌱 I’m currently learning 
    - JavaScript
    - React.js
-   - TypeScript
+   - Git
  
 - 📫 How to reach me
    - paolochreif@gmail.com
