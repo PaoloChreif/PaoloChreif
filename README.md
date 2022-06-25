@@ -6,6 +6,7 @@
    - CSS
    - JavaScript
    - React.js
+   - PHP
    - AWS
    - SQL
    - Java
