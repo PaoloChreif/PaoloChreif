@@ -7,7 +7,6 @@
    - Bootstrap
    - JavaScript
    - React.js
-   - PHP
    - AWS
    - SQL
    - Python
