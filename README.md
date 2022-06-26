@@ -4,6 +4,7 @@
    - Full-Stack development
    - HTML
    - CSS
+   - Bootstrap
    - JavaScript
    - React.js
    - PHP
@@ -14,6 +15,7 @@
 - () I am skilled in
    - HTML
    - CSS
+   - Bootstrap
 
 
 - 🌱 I’m currently learning 
