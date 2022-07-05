@@ -1,13 +1,14 @@
 - 👋 Hi, I’m @PaoloChreif
 
 - 👀 I’m interested in 
-   - Front-end Development
+   - Full-Stack Development
    - HTML
    - CSS
    - JavaScript
    - React.js
    - Bootstrap
    - Python
+   - SQL
    
 - () I am skilled in
    - HTML
