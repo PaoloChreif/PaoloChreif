@@ -1,16 +1,16 @@
 - 👋 Hi, I’m @PaoloChreif
 
 - 👀 I’m interested in 
-   - Full-Stack Development
    - HTML
    - CSS
    - JavaScript
    - React.js
    - Bootstrap
-   - Python
    - SQL
    
 - () I am skilled in
+   - Java
+   - Bio-informatics
    - HTML
    - CSS
    - Bootstrap
@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning 
    - JavaScript
-   - React.js
+   - Visual Basic
    - Git
  
 - 📫 How to reach me
