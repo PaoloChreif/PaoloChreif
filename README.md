@@ -5,15 +5,13 @@
    - CSS
    - JavaScript
    - React.js
-   - Bootstrap
    - SQL
    
 - () I am skilled in
    - Java
-   - Bio-informatics
+   - Bioinformatics
    - HTML
    - CSS
-   - Bootstrap
 
 
 - 🌱 I’m currently learning 
