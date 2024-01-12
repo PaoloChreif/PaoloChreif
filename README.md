@@ -10,13 +10,14 @@
 - () I am skilled in
    - Java
    - Bioinformatics
+   - SQL
+   - Visual Basic
    - HTML
    - CSS
 
 
 - 🌱 I’m currently learning 
    - JavaScript
-   - Visual Basic
    - Git
  
 - 📫 How to reach me
